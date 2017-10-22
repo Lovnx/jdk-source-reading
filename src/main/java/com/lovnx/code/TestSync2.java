@@ -1,4 +1,4 @@
-package com.lovnx.source;
+package com.lovnx.code;
 
 public class TestSync2 implements Runnable {
     int b = 100;          
